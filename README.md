@@ -12,6 +12,7 @@ These pages provide information that applies across courses. They are maintained
 - `learning-in-blackboard.html` — finding course content, submitting work, discussions, grades, calendars, and Blackboard tutorials
 - `technology-tips.html` — common technology issues and support
 - `recording-tools.html` — recording and submitting video
+- `instructor-resources.html` — instructor directory with direct links, copy buttons, embed code, and Start Here setup guidance
 
 Academic Success and Communication and Student Support are still in development; their tiles display Coming soon.
 
