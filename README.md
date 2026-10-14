@@ -1,14 +1,19 @@
 # OCTC Blackboard Start Here
 
+**[Open the OCTC Student Resources website](https://owensboro-community-technical-college.github.io/Bb_Start_Here/)**
+
 Shared student resources for Start Here modules in OCTC Blackboard Ultra courses.
 
 These pages provide information that applies across courses. They are maintained in one place so updates can appear in every course that links to or embeds them.
 
 ## Pages
 
-- `learning-in-blackboard.html` — finding course content, submitting work, checking progress, and getting Blackboard help
+- `student-resources.html` — main topic tiles; `index.html` opens this page from the website’s main address
+- `learning-in-blackboard.html` — finding course content, submitting work, discussions, grades, calendars, and Blackboard tutorials
+- `technology-tips.html` — common technology issues and support
+- `recording-tools.html` — recording and submitting video
 
-Additional pages are planned for technology tips, academic success and communication, and OCTC student support.
+Academic Success and Communication and Student Support are still in development; their tiles display Coming soon.
 
 ## What belongs in each Blackboard course
 
