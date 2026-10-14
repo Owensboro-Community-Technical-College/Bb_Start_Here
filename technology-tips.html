@@ -34,6 +34,16 @@
     .small { font-size: .94rem; }
   
 .instructor-footer{margin:24px 0 0;padding-top:14px;border-top:1px solid #c3d3df;font-size:.875rem;}.instructor-footer a{color:#00467f;text-decoration:underline;text-underline-offset:3px;}.instructor-footer a:focus-visible{outline:3px solid #00467f;outline-offset:3px;}
+
+    .chromebook-bar{display:flex;align-items:center;justify-content:space-between;gap:18px;margin:0 0 28px;padding:18px 20px;background:#eaf2f8;border:1px solid #b7cddd;border-left:5px solid #00467f;border-radius:5px;text-decoration:none;}
+    .chromebook-copy{display:block;flex:1;min-width:0;}
+    .chromebook-copy strong{display:block;font-size:1.12rem;margin-bottom:4px;}
+    .chromebook-copy>span{display:block;color:#24313d;font-size:.94rem;}
+    .chromebook-action{font-weight:bold;font-size:.94rem;text-decoration:underline;text-underline-offset:3px;}
+    .chromebook-action small{display:block;font-weight:normal;font-size:.8rem;margin-top:4px;}
+    .chromebook-bar:hover{background:#dfeef8;}
+    .chromebook-bar:focus-visible{outline:3px solid #00467f;outline-offset:4px;}
+    @media(max-width:560px){.chromebook-bar{align-items:flex-start;flex-direction:column;gap:12px;padding:16px;}}
 </style>
 </head>
 <body>
@@ -68,6 +78,11 @@
     </article>
   </section>
 
+  <a class="chromebook-bar" href="chromebook-tips.html" target="_blank" rel="noopener noreferrer">
+    <span class="chromebook-copy"><strong>Using a Chromebook?</strong><span>Find tips for school-issued devices, blocked sites, and computer lab options.</span></span>
+    <span class="chromebook-action">Open Chromebook Tips <span aria-hidden="true">→</span><small>Opens in a new tab</small></span>
+  </a>
+
   <section class="more" aria-labelledby="more-help-heading">
     <h2 id="more-help-heading">More tools and quick fixes</h2>
     <details>
@@ -95,7 +110,7 @@
       </div>
     </details>
     <details>
-      <summary>Chromebook, phone, or software questions</summary><div><p><strong>Using a Chromebook?</strong> Check course requirements early. If a school-issued device blocks a required site, your high school’s IT team may need to allow access.</p><p><a href="https://owensboro-community-technical-college.github.io/Bb_Start_Here/chromebook-tips.html" target="_blank" rel="noopener noreferrer">Open Chromebook Tips (opens in a new tab)</a> for school restrictions, compatibility, and campus computer lab options.</p><p>If a tool does not work in the Blackboard app, try a supported browser. For Office, <a href="https://portal.office.com/account/#installs" target="_blank" rel="noopener noreferrer">sign in to your KCTCS Office account (opens in a new tab)</a> to see available apps and installation options for your device.</p></div></details>
+      <summary>Phone or software questions</summary><div><p>If a tool does not work in the Blackboard app, try a supported browser. For Office, <a href="https://portal.office.com/account/#installs" target="_blank" rel="noopener noreferrer">sign in to your KCTCS Office account (opens in a new tab)</a> to see available apps and installation options for your device.</p></div></details>
     <details><summary>Microsoft 365 (Office) tutorials</summary><div><p>Need help using Word, Excel, PowerPoint, or other Office apps?</p><p><a href="https://support.microsoft.com/en-us/microsoft-365/" target="_blank" rel="noopener noreferrer">Microsoft 365 (Office) help and tutorials (opens in a new tab)</a></p></div></details>
   </section>
 
