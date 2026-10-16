@@ -1,6 +1,6 @@
 # OCTC Blackboard Start Here
 
-**[Open the OCTC Student Resources website](https://owensboro-community-technical-college.github.io/Bb_Start_Here/)**
+**[Open the OCTC Student Resources website](https://octc-instructional-design.github.io/Bb_Start_Here/)**
 
 Shared student resources for Start Here modules in OCTC Blackboard Ultra courses.
 
