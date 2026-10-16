@@ -25,7 +25,7 @@
   } catch (_) { /* Storage can be restricted in Blackboard embeds. */ }
   try {
     const response = await fetch(
-      "https://api.github.com/repos/Owensboro-Community-Technical-College/Bb_Start_Here/commits?sha=main&per_page=1&path=" + encodeURIComponent(path),
+      "https://api.github.com/repos/octc-instructional-design/Bb_Start_Here/commits?sha=main&per_page=1&path=" + encodeURIComponent(path),
       { headers: { Accept: "application/vnd.github+json" } }
     );
     if (!response.ok) return;
