@@ -12,9 +12,20 @@ These pages provide information that applies across courses. They are maintained
 - `learning-in-blackboard.html` — finding course content, submitting work, discussions, grades, calendars, and Blackboard tutorials
 - `technology-tips.html` — common technology issues and support
 - `recording-tools.html` — recording and submitting video
-- `instructor-resources.html` — instructor directory with direct links, copy buttons, embed code, and Start Here setup guidance
-
-Academic Success and Communication and Student Support are still in development; their tiles display Coming soon.
+- `chromebook-tips.html` — Chromebook limitations, school-managed devices, and computer lab information
+- `respondus-lockdown-browser.html` — getting ready for tests that require Respondus
+- `ally-alternative-formats.html` — finding and using alternative file formats
+- `google-files-for-blackboard.html` — downloading Google files in the format your assignment requires
+- `academic-success.html` — netiquette, communication, discussions, planning, and grades
+- `online-learning-success.html` — practical habits for staying connected and learning online
+- `citation-help.html` — MLA and APA basics, OCTC citation support, and specific Purdue OWL guides; direct style links: `citation-help.html#mla` and `citation-help.html#apa`
+- `student-support.html` — tutoring, advising, accessibility, counseling, and other support
+- `essential-skills.html` — Kentucky’s 10 Essential Skills
+- `ai-literacy.html` — thoughtful AI use and the five BE habits
+- `instructor-resources.html` — instructor resource hub
+- `instructor-links.html` — direct links, copy buttons, and embed code
+- `start-here-checklist.html` — Start Here setup guidance and checklist
+- `instructor-tools.html` — Blackboard banner, heading, and other teaching tools
 
 ## What belongs in each Blackboard course
 
